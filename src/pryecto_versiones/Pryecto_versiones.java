@@ -9,9 +9,10 @@ public class Pryecto_versiones {
         System.out.println("Ismael2");
 
         //Manu crea comentario
-        System.out.println("Manuel S. Gomez 4");
-        System.out.println("Antonio J. Beltrán Muñoz 4");
-        System.out.println("Sebastián Utrera Bonet 4");
-        System.out.println("Eduardo Formanti Alonso 4");
+        System.out.println("Manuel S. Gomez soy delegado corrupto");
+        System.out.println("Antonio J. Beltrán Muñoz soy un crack, demasiado");
+        System.out.println("Sebastián Utrera Bonet soy el peor de la fila");
+        System.out.println("Eduardo Formanti Alonso soy un sirujano de mala calidad");
+        
     }
 }
