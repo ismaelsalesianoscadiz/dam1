@@ -28,7 +28,7 @@ public class Pryecto_versiones {
             
             System.out.println("Julio J Mansilla Arroyo");
             
-            System.out.println("Alvaro Perea Troiti�o");
+            System.out.println("Alvaro Perea Troitino");
             
     }
 }
