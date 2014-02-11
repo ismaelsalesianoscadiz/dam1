@@ -10,9 +10,9 @@ public class Pryecto_versiones {
 
         //Manu crea comentario
         System.out.println("Manuel S. Gomez soy delegado corrupto");
-        System.out.println("Antonio J. Beltrán Muñoz soy muy tonto, demasiado tonto");
-        System.out.println("Sebastián Utrera Bonet soy el mejor de la fila");
-        System.out.println("Eduardo Formanti Alonso soy un sirujano de calidad");
+        System.out.println("Antonio J. Beltrán Muñoz soy un crack, demasiado");
+        System.out.println("Sebastián Utrera Bonet soy el peor de la fila");
+        System.out.println("Eduardo Formanti Alonso soy un sirujano de mala calidad");
         
     }
 }
