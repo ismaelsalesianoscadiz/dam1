@@ -22,5 +22,7 @@ public class Pryecto_versiones {
         
             System.out.println("Ismael2");
             System.out.println("Angel Calderon");
+            System.out.println("Jesus Ruiz");
+            System.out.println("Paco Vaca");
     }
 }
