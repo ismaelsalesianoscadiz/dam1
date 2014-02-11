@@ -15,6 +15,6 @@ public class Pryecto_versiones {
         System.out.println("Eduardo Formanti Alonso soy un sirujano de tremenda calidad");
         System.out.println("DEJARSE DE TONTERIA QUE ME La LEVANTO");
         System.out.println("ESTUDIAR FOL CABRONES");
-        System.out.println("David Gonzalez Nisa NEGROORRORORF");
+        System.out.println("David Gonzalez Nisa Barto... TE PARTO!");
     }
 }
