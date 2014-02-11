@@ -10,9 +10,10 @@ public class Pryecto_versiones {
 
         //Manu crea comentario
         System.out.println("Manuel S. Gomez soy delegado corrupto");
-        System.out.println("Antonio J. Beltrán Muñoz soy un crack, demasiado");
+        System.out.println("Antonio J. Beltrán Muñoz soy la desgracia de mi fila");
         System.out.println("Sebastián Utrera Bonet soy EL NUM 1");
-        System.out.println("Eduardo Formanti Alonso soy un sirujano de mala calidad");
+        System.out.println("Eduardo Formanti Alonso soy un sirujano de tremenda calidad");
         System.out.println("DEJARSE DE TONTERIA QUE ME LEVANTO");
+        System.out.println("ESTUDIAR FOL CABRONES");
     }
 }
