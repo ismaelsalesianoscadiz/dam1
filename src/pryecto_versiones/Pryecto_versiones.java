@@ -25,5 +25,7 @@ public class Pryecto_versiones {
             System.out.println("Carlos JFT");
             
             System.out.println("Cristina Sicre Flores");
+            
+            System.out.println("Alejandro Virlan Burgos");
     }
 }
