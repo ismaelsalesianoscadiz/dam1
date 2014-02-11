@@ -23,6 +23,7 @@ public class Pryecto_versiones {
         System.out.println("Roberto Lorenzo");
         System.out.println("Pablito Cuevas");
         System.out.println("Jose Taibo Bueno");
-        System.out.println("MJ =D");
+        System.out.println(".-*+*MJ*+*-.");
+        System.out.println("jijoje");
     }
 }
