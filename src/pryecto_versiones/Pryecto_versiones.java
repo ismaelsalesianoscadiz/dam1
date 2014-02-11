@@ -8,9 +8,8 @@ public class Pryecto_versiones {
         System.out.println("Ismael Abad");
         System.out.println("Ismael2");
 
-        //Manu crea comentario y operación
+        //Manu crea comentario
         System.out.println("Manuel S. Gomez");
-        int x = 2, y = 5;
-        System.out.println("Operación: "+(x*y));
+
     }
 }
