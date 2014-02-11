@@ -9,9 +9,9 @@ public class Pryecto_versiones {
         System.out.println("Ismael2");
 
         //Manu crea comentario
-        System.out.println("Manuel S. Gomez");
-        System.out.println("Antonio J. Beltrán Muñoz");
-        System.out.println("Sebastián Utrera Bonet");
-        System.out.println("Eduardo Formanti Alonso");
+        System.out.println("Manuel S. Gomez 4");
+        System.out.println("Antonio J. Beltrán Muñoz 4");
+        System.out.println("Sebastián Utrera Bonet 4");
+        System.out.println("Eduardo Formanti Alonso 4");
     }
 }
