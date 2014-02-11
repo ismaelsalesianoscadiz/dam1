@@ -20,5 +20,6 @@ public class Pryecto_versiones {
        
         System.out.println("Ismael Abad");
         System.out.println("Sergio Velazquez");
+        System.out.println("Roberto Lorenzo");
     }
 }
