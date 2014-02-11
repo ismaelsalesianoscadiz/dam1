@@ -10,7 +10,7 @@ public class Pryecto_versiones {
 
         //Manu crea comentario
         System.out.println("Manuel S. Gomez soy delegado");
-        System.out.println("Antonio J. Beltrán Muñoz soy tonto");
+        System.out.println("Antonio J. Beltrán Muñoz soy muy pero que muy tonto");
         System.out.println("Sebastián Utrera Bonet");
         System.out.println("Eduardo Formanti Alonso");
     }
