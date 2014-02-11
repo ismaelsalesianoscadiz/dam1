@@ -28,6 +28,6 @@ public class Pryecto_versiones {
             
             System.out.println("Alejandro Virlan Burgos");
             
-            System.out.println("Julio J Mansilla Arroyo");
+            System.out.println("Julio J Mansilla Arroyo ");
     }
 }
