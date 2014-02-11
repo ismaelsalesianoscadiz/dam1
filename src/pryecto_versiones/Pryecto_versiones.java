@@ -12,5 +12,6 @@ public class Pryecto_versiones {
         System.out.println("Manuel S. Gomez");
         System.out.println("Antonio J. Beltrán Muñoz");
         System.out.println("Sebastián Utrera Bonet");
+        System.out.println("Eduardo Formanti Alonso");
     }
 }
