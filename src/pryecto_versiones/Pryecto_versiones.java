@@ -16,11 +16,9 @@ public class Pryecto_versiones {
     public static void main(String[] args) {
        
         
-       System.out.println("hola");
+            System.out.println("hola");
        
-        System.out.println("Ismael Abad");
-        
-            System.out.println("Ismael2");
+            System.out.println("Ismael Abad");
             
             System.out.println("Carlos JFT");
             
@@ -30,6 +28,7 @@ public class Pryecto_versiones {
             
             System.out.println("Julio J Mansilla Arroyo");
             
-            System.out.println("Alvaro Perea Troitiño");
+            System.out.println("Alvaro Perea Troitiï¿½o");
+            
     }
 }
